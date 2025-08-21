@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my profile!  
-I'm **Anjali Shrivastava**, a passionate **Frontend Developer** and **UI/UX Designer** ✨
+I'm **Anjali Shrivastava**, **Frontend Developer** and **UI/UX Designer** ✨
 
 ---
 
